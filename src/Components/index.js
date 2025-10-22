@@ -5,6 +5,7 @@ import Work from "./Work"
 import Projects from "./Projects"
 import Testimonials from "./Testimonials"
 import Contact from "./Contact"
+import Edit from "./editable-text"
 
 
 
@@ -17,6 +18,7 @@ export {
     Projects,
     Testimonials,
     Contact,
+    Edit,
 
     
 
